@@ -9,9 +9,9 @@
 
 ## Sprint 2 - Layout Base
 
-* [ ] Instalar Tailwind
-* [ ] Criar layout principal
-* [ ] Criar Sidebar
+* [x] Instalar Tailwind
+* [x] Criar layout principal
+* [x] Criar Sidebar
 
 ## Sprint 3 - Hero Section
 
