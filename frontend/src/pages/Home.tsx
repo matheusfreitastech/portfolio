@@ -1,8 +1,17 @@
+import Layout from "../components/Layout";
+import Sidebar from "../components/Sidebar";
+
 function Home() {
   return (
-    <div>
-      Home
-    </div>
+    <Layout>
+      <Sidebar />
+
+      <main className="flex-1 p-10">
+        <h1 className="text-5xl font-bold">
+          Home
+        </h1>
+      </main>
+    </Layout>
   );
 }
 
