@@ -10,7 +10,7 @@
 
 ### Sprint Atual
 
-🔥 Sprint 3 - Hero Section
+🔥 Sprint 4 - Journey Timeline Preview
 
 Em andamento.
 
@@ -20,10 +20,10 @@ Em andamento.
 
 | Sprint    | Descrição                | Status          |
 | --------- | ------------------------ | --------------- |
-| Sprint 1  | Fundação do Projeto      | ✅ Concluída     |
-| Sprint 2  | Layout Base + Sidebar    | ✅ Concluída     |
-| Sprint 3  | Hero Section             | 🚧 Em andamento |
-| Sprint 4  | Journey Timeline Preview | ⏳ Planejada     |
+| Sprint 1  | Fundação do Projeto      | ✅ Concluída    |
+| Sprint 2  | Layout Base + Sidebar    | ✅ Concluída    |
+| Sprint 3  | Hero Section             | ✅ Concluída    |
+| Sprint 4  | Journey Timeline Preview | 🚧 Em andamento |
 | Sprint 5  | Featured Projects        | ⏳ Planejada     |
 | Sprint 6  | Technology Map           | ⏳ Planejada     |
 | Sprint 7  | Footer                   | ⏳ Planejada     |
@@ -70,7 +70,7 @@ Criar um portfólio moderno focado em:
 * [x] Git e versionamento
 * [x] Layout principal
 * [x] Sidebar
-* [ ] Hero Section
+* [x] Hero Section
 * [ ] Timeline profissional
 * [ ] Projetos em destaque
 * [ ] Technology Graph

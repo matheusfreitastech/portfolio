@@ -1,14 +1,15 @@
-import Layout from "../components/Layout";
-import Sidebar from "../components/Sidebar";
-import Hero from "../components/Hero";
+import Layout from "../components/Layout/Layout";
+import Sidebar from "../components/Sidebar/Sidebar";
+import Hero from "../components/Hero/Hero";
+import HeroStats from "../components/Hero/HeroStats";
 
 function Home() {
   return (
     <Layout>
       <Sidebar />
        <Hero
-        title="Transformando ideias em tecnologia."
-        subtitle="Da eletrônica ao software, da pesquisa ao produto."
+       title="Título"
+       subtitle="Subtitulo"
       />
     </Layout>
   );
