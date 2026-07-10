@@ -1,48 +1,43 @@
-# 🚀 Matheus Freitas Portfolio
+# 🚀 Matheus Freitas' Portfolio
 
-> Construindo uma experiência interativa para apresentar minha trajetória em desenvolvimento de software, pesquisa e desenvolvimento (R&D), eletrônica e tecnologia.
-
----
-
-## 🚧 Status Atual
-
-🟡 Em desenvolvimento
-
-### Sprint Atual
-
-🔥 Sprint 4 - Journey Timeline Preview
-
-Em andamento.
+> Building an interactive experience to showcase my journey in software development, research and development (R&D), electronics, and technology.
 
 ---
 
-## 📍 Progresso do Projeto
+## 🚧 Project Progress
+
+🟡 In Development
+
+### Current Sprint
+
+🔥 Sprint 4 - Design System Foundation.
+
+---
+
+## 📍 Project's Sprints Scope
 
 | Sprint    | Descrição                | Status          |
 | --------- | ------------------------ | --------------- |
-| Sprint 1  | Fundação do Projeto      | ✅ Concluída    |
-| Sprint 2  | Layout Base + Sidebar    | ✅ Concluída    |
-| Sprint 3  | Hero Section             | ✅ Concluída    |
-| Sprint 4  | Journey Timeline Preview | 🚧 Em andamento |
-| Sprint 5  | Featured Projects        | ⏳ Planejada     |
-| Sprint 6  | Technology Map           | ⏳ Planejada     |
-| Sprint 7  | Footer                   | ⏳ Planejada     |
-| Sprint 8  | Responsividade           | ⏳ Planejada     |
-| Sprint 9  | Animações                | ⏳ Planejada     |
-| Sprint 10 | Deploy                   | ⏳ Planejada     |
+| Sprint 1  | Project Foundation       | ✅ Completed    |
+| Sprint 2  | Layout Base + Sidebar    | ✅ Completed    |
+| Sprint 3  | Hero Section             | ✅ Completed    |
+| Sprint 4  | Design System Foundation | ✅ Completed    |
+| Sprint 5  | Featured Projects        | 🚧 In progress  |
+| Sprint 6  | Technology Map           | ⏳ Planned      |
+| Sprint 7  | Footer                   | ⏳ Planned      |
+| Sprint 8  | Responsiveness           | ⏳ Planned      |
+| Sprint 9  | Animations               | ⏳ Planned      |
+| Sprint 10 | Deployment               | ⏳ Planned      |
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objectives
 
-Criar um portfólio moderno focado em:
-
-* Desenvolvimento de Software
-* Pesquisa e Desenvolvimento (R&D)
-* Inteligência Artificial
-* Eletrônica
-* Arquitetura de Soluções
-* Engenharia de Produto
+*   **Deliverables:**
+    *   [x] Button component
+    *   [x] Component variants
+    *   [x] Base styles
+    *   [x] Reusable props
 
 ---
 
@@ -55,7 +50,7 @@ Criar um portfólio moderno focado em:
 * Vite
 * TailwindCSS
 
-### Futuramente
+### Future Additions
 
 * Node.js
 * Express
@@ -66,19 +61,19 @@ Criar um portfólio moderno focado em:
 
 ## 🗺️ Roadmap
 
-* [x] Estrutura inicial
-* [x] Git e versionamento
-* [x] Layout principal
+* [x] Initial setup
+* [x] Git and versioning
+* [x] Main layout
 * [x] Sidebar
 * [x] Hero Section
-* [ ] Timeline profissional
-* [ ] Projetos em destaque
+* [ ] Professional timeline
+* [ ] Featured projects
 * [ ] Technology Graph
-* [ ] Responsividade
-* [ ] Deploy
+* [ ] Responsiveness
+* [ ] Deployment
 
 ---
 
-## 📌 Observação
+## 📌 Note
 
-Este projeto está sendo desenvolvido publicamente e documentado por sprints, simulando um fluxo de desenvolvimento utilizado em ambientes profissionais.
+This project is being developed publicly and documented in sprints, simulating a real-world agile workflow used in professional environments.
