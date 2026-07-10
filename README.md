@@ -1,79 +1,67 @@
 # 🚀 Matheus Freitas' Portfolio
 
-> Building an interactive experience to showcase my journey in software development, research and development (R&D), electronics, and technology.
+> Interactive portfolio built with React, TypeScript and Tailwind CSS, documenting my professional journey in software engineering, research & development and technology.
 
 ---
 
-## 🚧 Project Progress
+## 🚧 Project Status
 
 🟡 In Development
 
-### Current Sprint
+Current milestone:
 
-🔥 Sprint 4 - Design System Foundation.
-
----
-
-## 📍 Project's Sprints Scope
-
-| Sprint    | Descrição                | Status          |
-| --------- | ------------------------ | --------------- |
-| Sprint 1  | Project Foundation       | ✅ Completed    |
-| Sprint 2  | Layout Base + Sidebar    | ✅ Completed    |
-| Sprint 3  | Hero Section             | ✅ Completed    |
-| Sprint 4  | Design System Foundation | ✅ Completed    |
-| Sprint 5  | Featured Projects        | 🚧 In progress  |
-| Sprint 6  | Technology Map           | ⏳ Planned      |
-| Sprint 7  | Footer                   | ⏳ Planned      |
-| Sprint 8  | Responsiveness           | ⏳ Planned      |
-| Sprint 9  | Animations               | ⏳ Planned      |
-| Sprint 10 | Deployment               | ⏳ Planned      |
+**Sprint 5 - Featured Projects**
 
 ---
 
-## 🎯 Objectives
+## ✨ Features
 
-*   **Deliverables:**
-    *   [x] Button component
-    *   [x] Component variants
-    *   [x] Base styles
-    *   [x] Reusable props
+- Interactive Home
+- Professional Timeline
+- Featured Projects
+- Technology Map
+- Responsive Layout
+- Modern UI Components
+- Documented Development Process
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
-* React
-* TypeScript
-* Vite
-* TailwindCSS
+- React
+- TypeScript
+- Vite
+- TailwindCSS
 
-### Future Additions
+### Planned
 
-* Node.js
-* Express
-* AWS
-* CI/CD
-
----
-
-## 🗺️ Roadmap
-
-* [x] Initial setup
-* [x] Git and versioning
-* [x] Main layout
-* [x] Sidebar
-* [x] Hero Section
-* [ ] Professional timeline
-* [ ] Featured projects
-* [ ] Technology Graph
-* [ ] Responsiveness
-* [ ] Deployment
+- Node.js
+- Express
+- AWS
+- CI/CD
 
 ---
 
-## 📌 Note
+## 📚 Documentation
 
-This project is being developed publicly and documented in sprints, simulating a real-world agile workflow used in professional environments.
+This project is publicly developed using an agile workflow.
+
+Detailed documentation is available in:
+
+📂 `/docs`
+
+- Sprint Reports
+- Architecture Decision Records (ADR)
+- Development Notes
+- Retrospectives
+
+---
+
+## 🚀 Getting Started
+
+```bash
+npm install
+
+npm run dev
