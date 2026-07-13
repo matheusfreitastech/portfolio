@@ -3,19 +3,18 @@ type StatCardProps = {
   label: string;
 };
 
-function StatCard({
-  value,
-  label,
-}: StatCardProps) {
-  return (
-    <div className="rounded-2xl
-        border
-        border-zinc-800
-        bg-zinc-900
-        p-6">
-      <h2 className="text-4xl font-bold">{value}</h2>
+const StatCardStyles = {
+  container: "rounded-2xl border border-zinc-800 bg-zinc-900 p-6",
+  value: "text-4xl font-bold",
+  label: "text-zinc-400",
+};
 
-      <p className="text-zinc-400">{label}</p>
+function StatCard({value, label}: StatCardProps) {
+  return (
+    <div className={StatCardStyles.container}>
+      <h2 className={StatCardStyles.value}>{value}</h2>
+
+      <p className={StatCardStyles.label}>{label}</p>
     </div>
   );
 }

@@ -12,15 +12,15 @@ const stats: Stat[] = [
     },
     {
         value: "+15",
-        label: "Projetos",
+        label: "Projetos concluídos",
     },
     {
         value: "3",
-        label: "Especializações",
+        label: "Áreas de especialização",
     },
     {
         value: "∞",
-        label: "Curiosidade",
+        label: "Vontade de aprender",
     },
 ];
 
