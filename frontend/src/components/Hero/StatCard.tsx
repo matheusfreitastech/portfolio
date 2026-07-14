@@ -1,4 +1,5 @@
 type StatCardProps = {
+  container: string;
   value: string;
   label: string;
 };
@@ -9,7 +10,7 @@ const StatCardStyles = {
   label: "text-zinc-400",
 };
 
-function StatCard({value, label}: StatCardProps) {
+function StatCard({container, value, label}: StatCardProps) {
   return (
     <div className={StatCardStyles.container}>
       <h2 className={StatCardStyles.value}>{value}</h2>

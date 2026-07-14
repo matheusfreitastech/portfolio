@@ -1,3 +1,5 @@
+import StatCard from "../Hero/StatCard";
+
 type ProjectCardProps = {
   value: string;
   label: string;
@@ -9,7 +11,7 @@ const ProjectCardStyles = {
   label: "text-zinc-400",
 };
 
-function ProjectCard({container, value, label}: ProjectCardProps) {
+function ProjectCard() {
   return (
 <a href="#" className="block rounded-lg p-4 shadow-xs shadow-indigo-100">
   <img
