@@ -2,6 +2,7 @@ import Layout from "../components/Layout/Layout";
 import Sidebar from "../components/Sidebar/Sidebar";
 import Hero from "../components/Hero/HeroGrid";
 import ProjectCard from "../components/FeaturedProjects/ProjectCard";
+import ProjectGrid from "../components/FeaturedProjects/ProjectGrid";
 
 function Home() {
   return (
@@ -13,7 +14,7 @@ function Home() {
           subtitle="Subtitulo"
         />
         <section className="flex flex-col gap-8 p-12">
-          <ProjectCard />
+          <ProjectGrid />
         </section>
       </main>
     </Layout>
