@@ -28,8 +28,6 @@ function ProjectCard({
 
             </div>
 
-        </article>
-
     )
 
 }

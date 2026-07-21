@@ -13,9 +13,8 @@ From this sprint forward, every development cycle will be documented, including 
 | Sprint | 05 |
 | Name   | Featured Projects |
 | Status | 🚧 In Progress |
-| Start Date | YYYY-MM-DD |
+| Start Date | 2026-07-10 |
 | End Date | -- |
-| Branch | docs/s5-english-readme *(documentation)* |
 ---
 
 # 🎯 Goal
@@ -27,10 +26,10 @@ Develop the **Featured Projects** section while maintaining the reusable compone
 # 📦 Planned Deliverables
 
 - [ ] Featured Projects section
-- [ ] Reusable `ProjectCard` component
+- [x] Reusable `ProjectCard` component
 - [ ] Responsive project grid
-- [ ] Project data rendered with `map()`
-- [ ] Reuse existing `Button` component
+- [x] Project data rendered with `map()`
+- [x] Reuse existing `Button` component
 - [ ] Improve visual hierarchy
 - [ ] Dark theme consistency
 
@@ -38,12 +37,12 @@ Develop the **Featured Projects** section while maintaining the reusable compone
 
 # ✅ Acceptance Criteria
 
-- [ ] Project cards are fully reusable
-- [ ] Data is rendered dynamically
+- [x] Project cards are fully reusable
+- [x] Data is rendered dynamically
 - [ ] Layout remains responsive
-- [ ] Buttons reuse the Design System
+- [x] Buttons reuse the Design System
 - [ ] Components remain modular
-- [ ] Clean folder organization
+- [x] Clean folder organization
 
 ---
 
