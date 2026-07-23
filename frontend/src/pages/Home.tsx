@@ -10,8 +10,8 @@ function Home() {
       <Sidebar />
       <main className="flex flex-1 flex-col overflow-y-auto">
         <Hero
-          title="Título"
-          subtitle="Subtitulo"
+          title="Matheus Freitas"
+          subtitle="Desenvolvedor Fullstack | Apaixonado por tecnologia e inovação"
         />
         <section className="flex flex-col gap-8 p-12">
           <ProjectGrid />

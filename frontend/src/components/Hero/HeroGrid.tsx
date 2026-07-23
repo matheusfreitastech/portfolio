@@ -1,6 +1,7 @@
 import HeroButtons from "./HeroButtons";
 import HeroStats from "./HeroStats";
 import ProjectCard from "../FeaturedProjects/ProjectCard";
+import StatCardStyles from "./StatCard";
 
 type HeroProps = {
   title: string;
@@ -19,11 +20,15 @@ function Hero({title,subtitle,}: HeroProps) {
           Software Engineer • R&D
         </span>
 
-        <h1 className="mt-4 text-6xl font-bold max-w-4xl">
+        <h1 className="mt-4 text-lg font-medium max-w-4xl">
+          Olá, eu sou
+        </h1>
+
+        <h1 className="mt-4 text-5xl font-bold max-w-4xl">
           {title}
         </h1>
 
-        <p className="mt-6 max-w-2xl text-lg text-zinc-400">
+        <p className="font-medium font-light mt-6 max-w-2xl text-xl font-bold text-purple-600">
           {subtitle}
         </p>
         
