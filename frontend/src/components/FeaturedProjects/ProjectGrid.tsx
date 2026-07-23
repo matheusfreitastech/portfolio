@@ -7,7 +7,7 @@ function ProjectGrid() {
 
         <section>
 
-            <div className="grid">
+            <div className="flex flex-wrap gap-4">
 
                 {cards.map(card => (
 
