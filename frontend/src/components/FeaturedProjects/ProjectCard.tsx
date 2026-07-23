@@ -10,7 +10,7 @@ function ProjectCard({
 
     return (
             <div
-                className="max-w-md w-full bg-white rounded-xl shadow-2xl overflow-hidden transform transition duration-500 hover:scale-105">
+                className="w-full bg-white rounded-xl shadow-2xl overflow-hidden transform transition duration-500 hover:scale-105">
                 <div className="relative">
                     <img className="w-full h-64 object-cover" src={card.image} alt={card.title}></img>
                         <div className="absolute bottom-0 right-0 bg-teal-500 text-white px-2 py-1 m-2 rounded-md text-sm font-semibold">

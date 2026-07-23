@@ -20,17 +20,31 @@ function Hero({title,subtitle,}: HeroProps) {
           Software Engineer • R&D
         </span>
 
-        <h1 className="mt-4 text-lg font-medium max-w-4xl">
+        <div className="flex
+          flex-col
+          mb-2">
+
+        <h2 className="mt-4 text-lg font-medium
+         max-w-4xl">
           Olá, eu sou
-        </h1>
+        </h2>
 
         <h1 className="mt-4 text-5xl font-bold max-w-4xl">
           {title}
         </h1>
 
-        <p className="font-medium font-light mt-6 max-w-2xl text-xl font-bold text-purple-600">
+        <p className="font-semibold tracking-normal mt-6 text-xl text-purple-600 drop-shadow-[0_0_6px_currentColor]">
           {subtitle}
         </p>
+
+        
+        <h2 className="mt-4 text-lg font-normal
+         max-w-4xl">
+          Transformo ideas em soluções tecnológicas através de software, eletrônica e pesquisa aplicada.
+          Do laboratório ao produto, da teoria à prática.
+        </h2>
+
+        </div>
         
         <HeroButtons/>
 

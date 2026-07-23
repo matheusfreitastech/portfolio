@@ -4,27 +4,21 @@ import ProjectCard from "./ProjectCard";
 function ProjectGrid() {
 
     return (
+        <div className="flex gap-4 p-12">
 
-        <section>
+            {cards.map(card => (
 
-            <div className="flex flex-wrap gap-4">
+                <ProjectCard
 
-                {cards.map(card => (
+                    key={card.title}
 
-                    <ProjectCard
+                    card={card}
 
-                        key={card.title}
+                />
 
-                        card={card}
+            ))}
 
-                    />
-
-                ))}
-
-            </div>
-
-        </section>
-
+        </div>
     )
 
 }

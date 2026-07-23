@@ -2,7 +2,7 @@ function Sidebar() {
   return (
     <aside
       className="
-        w-72
+        w-40
         border-r
         border-zinc-800
         bg-zinc-900
